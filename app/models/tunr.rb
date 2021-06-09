@@ -1,0 +1,2 @@
+class Tunr < ApplicationRecord
+end
